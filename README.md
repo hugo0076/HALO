@@ -1,6 +1,6 @@
 # HALO: Robust Out-of-Distribution Detection via Joint Optimisation
 
-This repository contains the code for the paper "HALO: Robust Out-of-Distribution Detection via Joint Optimisation".
+This repository contains the code for the paper [HALO: Robust Out-of-Distribution Detection via Joint Optimisation](https://arxiv.org/abs/2502.19755).
 
 ## Requirements
 - `Python` 3.11.6
